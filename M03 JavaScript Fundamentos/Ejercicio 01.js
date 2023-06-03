@@ -13,8 +13,7 @@ const nuevoString = 'Ejercicio 1';
 const nuevoNumero = 8;
 
 // Crea una variable de tipo boolean.
-const nuevoBoolean = SeEntiendePerfecto = true 
-var NoEntiendoMucho = false ;
+const nuevoBoolean = false;
 
 // Resuelve el siguiente problema matemático.
 const nuevaResta = 10 - 7 === 3;
